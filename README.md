@@ -2,7 +2,7 @@
 
 **AudioSphere** is a Spotify-powered music streaming web application built using **Flask** (backend) and **HTML/CSS/JS** (frontend). It lets users search and stream music, explore artists and genres, and securely sign up or sign in to personalize their experience.
 
-Live Demo: [https://audiosphere-gs9z.onrender.com](https://audiosphere-gs9z.onrender.com)
+Live Demo: [https://audiosphere-gs9z.onrender.com](https://audiosphere-l50j.onrender.com/)
 
 ##  Features
 
@@ -35,11 +35,9 @@ Live Demo: [https://audiosphere-gs9z.onrender.com](https://audiosphere-gs9z.onre
 - Spotify Developer Account
 - A virtual environment manager (like `venv` or `pipenv`)
 
-### 1. Clone the Repo
-
-git clone https://github.com/ABHILASHM-26/AudioSphere.git
 cd AudioSphere
-2. Set Up Environment
+
+1. Set Up Environment
 
 python3 -m venv venv
 
@@ -47,14 +45,14 @@ venv\Scripts\activate on Windows
 
 pip install -r requirements.txt
 
-3. Configure Spotify API
+2. Configure Spotify API
 Create a .env file and add your credentials:
 
 CLIENT_ID=your_spotify_client_id
 CLIENT_SECRET=your_spotify_client_secret
 Get your Spotify credentials here: https://developer.spotify.com/dashboard
 
-4. Run the App Locally
+3. Run the App Locally
 
 python main.py
 
@@ -87,7 +85,7 @@ AudioSphere/
 
 # Deployment :
 
-   [https://audiosphere-gs9z.onrender.com](https://audiosphere-gs9z.onrender.com)
+   [https://audiosphere-gs9z.onrender.com](https://audiosphere-l50j.onrender.com/)
   
 # Ceated By :
 Siddartha Kallampalli
@@ -118,7 +116,7 @@ Have questions, feedback, or need help?
 
 - **Phone**: +91-6305323077
 
-- **LinkedIn**: [https://www.linkedin.com/in/Abhilash M](https://www.linkedin.com/in/abhilashmellacheruvu/)
+- **LinkedIn**: [https://www.linkedin.com/in/K Siddartha]()
 
 - **GitHub**: [github.com/SiddarthaKallampalli](https://github.com/SiddarthaKallampalli)
 
