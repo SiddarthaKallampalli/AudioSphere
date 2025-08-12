@@ -90,10 +90,9 @@ AudioSphere/
    [https://audiosphere-gs9z.onrender.com](https://audiosphere-gs9z.onrender.com)
   
 # Ceated By :
+Siddartha Kallampalli
 
 Abhilash Mellacheruvu
-
-Siddartha Kallampalli
 
 # Future Enhancements :
 
@@ -113,14 +112,14 @@ we are open for feedback contact us :
 
 Have questions, feedback, or need help?
 
-- **Name**:  Abhilash M
+- **Name**:  K Siddartha
 
-- **Email**: abhilashm1344@gmail.com
+- **Email**: siddarthakallampalli70@gmail.com
 
-- **Phone**: +91-9014578545
+- **Phone**: +91-6305323077
 
 - **LinkedIn**: [https://www.linkedin.com/in/Abhilash M](https://www.linkedin.com/in/abhilashmellacheruvu/)
 
-- **GitHub**: [github.com/ABHILASHM-26](https://github.com/ABHILASM-26)
+- **GitHub**: [github.com/SiddarthaKallampalli](https://github.com/SiddarthaKallampalli)
 
 Feel free to open an issue if something isn't working right.
